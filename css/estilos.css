@@ -17,6 +17,11 @@ body{
     /* display: flex; */
 
 }
+
+.imagen {
+    width: 100%;
+}
+
 #itemFish {
     width: 45px;
     padding: 5px;
